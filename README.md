@@ -1,24 +1,34 @@
-# Hi there, I'm lxwis 👋
+<div align="center">
+  <h1>lxwis</h1>
+  <p>Solo student developer based in General Santos City, PH.</p>
+  <p>Building things mostly alone using <b>Vanilla JS</b>, <b>Firebase</b>, and <b>Vercel</b>.</p>
 
-I am a solo student developer based in General Santos City, Philippines[cite: 4]. I build things mostly alone, ranging from live library systems for my college to cross-platform serverless bots[cite: 4]. I prefer working with Vanilla JS, Firebase, and just enough Node to get by[cite: 4].
+  <br>
 
-### 👨‍💻 About Me
-*   ⚡ I am currently open to collaborations and freelance work[cite: 4].
-*   ☁️ I deploy lightweight, fast projects using Vercel[cite: 5].
-*   📫 The easiest way to reach me is on Telegram at [t.me/iamlxwis](https://t.me/iamlxwis)[cite: 4].
+  <a href="https://t.me/iamlxwis" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://facebook.com/iamlxwis" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://lxwis.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-14110D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-### 🛠️ My Tech Stack
-*   **Languages & Core:** HTML5, CSS3, JavaScript, Node.js[cite: 5].
-*   **Backend & Hosting:** Firebase (RTDB & Auth), Vercel (Edge Functions), REST APIs[cite: 5].
-*   **Tools & Concepts:** Git, Progressive Web Apps (PWA), Telegraf, Meta Graph API[cite: 5].
+<br>
 
-### 🚀 What I've Shipped
-*   **[LibNav](https://libnav.lxwis.site):** A library navigation system built solo for Notre Dame-Siena College[cite: 5]. It helps students find books while allowing admins to manage content[cite: 5]. Built with Vanilla JS, Firebase RTDB/Auth, and deployed as an offline-supported PWA via Vercel[cite: 5].
-*   **[lxwis.site](https://lxwis.site/):** My personal portfolio[cite: 4, 5]. Built entirely by hand with zero frameworks, using only HTML, CSS, and JavaScript[cite: 5].
-*   **[AllinOneTools_Bot](https://t.me/AllinOneTools_Bot):** A Telegram multi-tool assistant featuring AI chat, crypto tracking, BIN tools, temp email, and identity generation[cite: 5]. Built with Telegraf and deployed serverless on Vercel Edge Functions to eliminate cold-start lag[cite: 5].
-*   **lxwis Bot (Building):** Rebuilding my Telegram toolset for Facebook Messenger using the Meta Graph API[cite: 5]. It uses a zero-dependency Node.js backend to convert text commands into native interactive button templates[cite: 5].
+### 🛠 The Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-### 📊 Let's Connect
-*   **GitHub:** [github.com/iamlxwis](https://github.com/iamlxwis)[cite: 4]
-*   **Facebook:** [facebook.com/iamlxwis](https://facebook.com/iamlxwis)[cite: 4]
-*   **Telegram:** [t.me/iamlxwis](https://t.me/iamlxwis)[cite: 4]
+### 🚀 Shipped & Building
+* **[LibNav](https://libnav.lxwis.site)** — A real-time library navigation system and offline-ready PWA built for Notre Dame-Siena College.
+* **[AllinOneTools_Bot](https://t.me/AllinOneTools_Bot)** — A serverless multi-tool Telegram ecosystem running on Vercel Edge functions.
+* **[lxwis.site](https://lxwis.site/)** — My personal editorial portfolio, hand-coded with zero frameworks.
